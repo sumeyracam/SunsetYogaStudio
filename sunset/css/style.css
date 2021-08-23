@@ -1,0 +1,97 @@
+*{ box-sizing: border-box; }
+
+body { 
+background-image: linear-gradient(to bottom, #fcbb6d, #d8737f, #ab6c82, #685d79,#475c7a);
+    font-family: Verdana, Arial, sans-serif; 
+text-color: #685d79;
+}
+header { 
+    background-image: url("https://i.hizliresim.com/dna6lmn.jpg");
+    background-repeat: no-repeat;
+    height: 450px; }
+footer { background-color: #d8737f; 
+    padding: 1em; }
+nav { font-weight: bold;
+    text-align: center; 
+    background-color: #fffaf0;
+    color: #685d79; 
+    padding: 1em; float: left; width: 190px; }
+nav a { color: #685d79;
+    text-decoration: none; 
+    text-align: center; 
+    font-weight: bold; 
+    border: 3px outset #CCCCCC; 
+    padding: 1em; 
+    margin-bottom: 1em; 
+    display: block; 
+}
+
+h1 { 
+    padding-top: 50px; 
+    padding-left: 2em; }
+footer { font-size: small;
+        font-style: italic;
+        text-align: center; 
+}
+li { 
+font-size: 90%;
+text-color: #685d79 ;
+ 
+}
+#wrapper {
+ margin: auto; 
+width: 80%; 
+background-color: #fffaf0; 
+color: #685d79; 
+    min-width: 550px; 
+max-width: 1280px; 
+}
+main { 
+    padding-top: 0; 
+    padding-left: 3em; 
+    padding-right: 3em; 
+    padding-bottom: 3em;         
+    display: block; 
+    margin-left: 170px; 
+}
+#mathero { 
+    background-image: url(img/8.jpg);
+    background-repeat: no-repeat; height: 300px; 
+    background-position: center; }
+#loungehero { 
+    background-image: url("https://i.hizliresim.com/6xsfllo.jpg");
+    background-repeat: no-repeat; 
+    height: 550px; 
+    background-position: center; 
+}
+#img { padding: 2em; }
+ul { 
+text-color: #685d79 ;
+list-style-type: none; 
+padding-left: 0px; 
+font-size: 1.2em; }
+.floatleft { float: left; margin-right: 4em; }
+.clear { clear: both; }
+header, main, nav, footer, figure, figcaption, aside, section, article { display: block; }
+header, main, nav, footer, figure, figcaption, aside, section, article { display: block; }
+
+
+    
+}
+
+
+table { 
+margin-left: auto; 
+margin-right: auto; 
+width: 60%; 
+border: 1px solid #3F2860; margin-bottom: 1em; border-collapse: collapse; }
+td, th { padding: 0.5em; border: 1px solid #CE6A85; }
+tr:nth-of-type(even) { background-color: #985277; }
+caption { margin: 1em; font-weight: bold; font-size: 120%; }
+label { float: left; display: block; text-align: right; width: 10em; padding-right: 1em; }
+input { display: block; margin-bottom: 2em; }
+textarea { display: block; margin-bottom: 2em; }
+input { margin-left: 12em; }
+
+    
+}
